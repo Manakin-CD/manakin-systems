@@ -1,3 +1,7 @@
+
+![comando2](https://github.com/Manakin-CD/manakin-systems/blob/main/manakin.png)
+
+
 # 🐦 **Manakin Systems** 🌴✨  
 
 ¡Hola y bienvenidos a **Manakin Systems**! 🌟 Somos una empresa de desarrollo de software y automatización inspirada en la **belleza natural y la agilidad del Manakin**, un pequeño pero veloz pájaro tropical de Costa Rica. 🏝️  
